@@ -3,7 +3,7 @@ namespace NexusHardware.Domain.Entities;
 public class Fabricante
 {
     public int Id { get; private set; }
-    public string Nome { get; private set; }
+    public string Nome { get; private set; } = null!;
 
     // Relação: Um fabricante tem VÁRIOS componentes
     public ICollection<Componente> Componentes { get; private set; }
