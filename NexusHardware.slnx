@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="NexusHardware.Api/NexusHardware.Api.csproj" />
+  <Project Path="NexusHardware.Application/NexusHardware.Application.csproj" />
+  <Project Path="NexusHardware.Domain/NexusHardware.Domain.csproj" />
+  <Project Path="NexusHardware.Infrastructure/NexusHardware.Infrastructure.csproj" />
+  <Project Path="NexusHardware.Web/NexusHardware.Web.csproj" />
+</Solution>
